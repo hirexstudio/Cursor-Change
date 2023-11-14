@@ -1,0 +1,14 @@
+
+/*Cursor Change*/ -> 1st Method
+
+.premium-modal-trigger-img{
+  cursor: url(https://brightfuturekids.net/wp-content/uploads/cursor.png) 4 12, auto !important;
+}
+
+
+/*Cursor Change*/ -> 2nd Method
+
+img.premium-modal-trigger-img{
+	cursor:crosshair !important;
+}
+
